@@ -1,2 +1,3 @@
 let x = 'TEST'
-console.log(x)
+let y = 'Covid 19'
+console.log(x, y)
